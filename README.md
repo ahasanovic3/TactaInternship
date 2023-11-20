@@ -34,6 +34,8 @@ To start the project you will need:
 - npm (Node Package Manager)
 - MongoDB(connect to the url with MongoDB compass or Shell( i haven't used it))
 
+Use npm start on both backend and frontend, sart backend first then frontend,  ctrc c then y to stop
+
 In the terminal you will need to install some of the features I used in my project such as Axios, bcryptjs, cors, mongoose ext ( check package json) 
 
 I don't think i forgot anything. Please keep in mind this is my first time writting one of these and there might be a lot of bad things about this ReadMe file
